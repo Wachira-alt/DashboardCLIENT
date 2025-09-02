@@ -5,9 +5,7 @@ function App() {
   
 
   return (
-    <>
-      
-    </>
+    <h1 className='bg-blend-color-burn'>This is me</h1>
   )
 }
 
