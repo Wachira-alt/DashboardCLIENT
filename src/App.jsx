@@ -1,11 +1,13 @@
 
 import './App.css'
 
+import LoginPage from './pages/Login'
+
 function App() {
   
 
   return (
-    <h1 className='bg-blend-color-burn'>This is me</h1>
+   <LoginPage/>
   )
 }
 
