@@ -1,13 +1,15 @@
 
 import './App.css'
 
-import LoginPage from './pages/Login'
+import Navbar from './components/layout/Navbar'
+
+
 
 function App() {
   
 
   return (
-   <LoginPage/>
+   <Navbar/>
   )
 }
 
